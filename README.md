@@ -5,7 +5,7 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 ## Setup
  
 ```
-    $ git clone https://github.com/MANASAKOLLI6/ecommerce/tree/main
+    $ git clone https://github.com/VINITDK/e-Commerce.git
     $ cd ecommerceAPI
     $ npm install
 ```
@@ -214,11 +214,11 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 `DELETE |  /api/v1/orders/{id}` 
 
 ## Author
-[MANASA_KOLLI](https://github.com/MANASAKOLLI6/ecommerce/tree/main))
+(Vinit Divekar...) (https://github.com/VINITDK/e-Commerce.git) 
 
 ## License
 
-Copyright (c) 2020 <a href="https://github.com/MANASAKOLLI6/ecommerce/tree/main">MANASA_KOLLI</a> and <a href="https://codingtricks.io/">codingtricks.io</a>
+Copyright (c) 2020 <a href=" https://github.com/VINITDK/e-Commerce.git">MANASA_KOLLI</a> and <a href="https://codingtricks.io/">codingtricks.io</a>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
