@@ -218,7 +218,7 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 
 ## License
 
-Copyright (c) 2020 <a href=" https://github.com/VINITDK/e-Commerce.git">MANASA_KOLLI</a> and <a href="https://codingtricks.io/">codingtricks.io</a>
+Copyright (c) 2020 <a href=" https://github.com/VINITDK/e-Commerce.git">Vinit Divekar</a> and <a href="https://codingtricks.io/">codingtricks.io</a>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
