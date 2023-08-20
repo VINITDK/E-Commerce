@@ -1,7 +1,7 @@
 // Require express
 const express = require("express");
 const bodyParser = require("body-parser");
-const db = require("./confiq/mongoose");
+const db = require("./config/mongoose");
 
 //require app
 const app = express();
@@ -12,7 +12,7 @@ const port = 8000;
 // using body parser to parse over the request body
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.use("/product", require("./routers/product"));
+app.use("/product", require("./routes/product"));
 
 // Server Create
 app.listen(port, (err) => {
