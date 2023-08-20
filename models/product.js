@@ -9,6 +9,6 @@ const productSchema = new mongoose.Schema({
 });
 //creting a new model called "product"
 
-const Product = mongoose.model("product", productSchema);
+const Product = mongoose.models("product", productSchema);
 
 module.exports = Product;
